@@ -30,16 +30,6 @@ The dashboard helps visualize airline route profitability using filters like rou
 | `notebook/preprocessing.ipynb` | Python notebook used for cleaning and calculations |
 | `README.md`               | Project documentation (this file)                 |
 
-## 📷 Dashboard Preview
-
-> Add screenshots here once you export them from Power BI.
-
-You can include:
-- A full dashboard screenshot
-- A zoomed-in section (e.g., Route profitability bar chart)
-
-Example:
-![Dashboard Overview](screenshots/dashboard-full.png)
 
 ## 🧠 Industry Relevance
 
